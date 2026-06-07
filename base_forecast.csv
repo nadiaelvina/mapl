@@ -1,0 +1,321 @@
+SKU_ID,Branch,ForecastWeek,LastWeekNum,TrendForecast,RollingMeanForecast,Trend_Slope,Trend_R2,SKU,Brand,SKU_Category,BaseForecast,ForecastMethod
+S001,Bandung,1,22,1129.0,1076.0,19.27,0.2632,Richeese Wafer Keju 50g,Richeese,Wafer,1076.0,rolling_mean
+S001,Bandung,2,22,1148.2,1076.0,19.27,0.2632,Richeese Wafer Keju 50g,Richeese,Wafer,1076.0,rolling_mean
+S001,Bandung,3,22,1167.5,1076.0,19.27,0.2632,Richeese Wafer Keju 50g,Richeese,Wafer,1076.0,rolling_mean
+S001,Bandung,4,22,1186.8,1076.0,19.27,0.2632,Richeese Wafer Keju 50g,Richeese,Wafer,1076.0,rolling_mean
+S001,Jakarta,1,22,3332.2,3071.2,54.183,0.2808,Richeese Wafer Keju 50g,Richeese,Wafer,3071.2,rolling_mean
+S001,Jakarta,2,22,3386.4,3071.2,54.183,0.2808,Richeese Wafer Keju 50g,Richeese,Wafer,3071.2,rolling_mean
+S001,Jakarta,3,22,3440.6,3071.2,54.183,0.2808,Richeese Wafer Keju 50g,Richeese,Wafer,3071.2,rolling_mean
+S001,Jakarta,4,22,3494.7,3071.2,54.183,0.2808,Richeese Wafer Keju 50g,Richeese,Wafer,3071.2,rolling_mean
+S001,Semarang,1,22,741.3,718.8,12.663,0.3111,Richeese Wafer Keju 50g,Richeese,Wafer,741.3,linear_trend
+S001,Semarang,2,22,754.0,718.8,12.663,0.3111,Richeese Wafer Keju 50g,Richeese,Wafer,754.0,linear_trend
+S001,Semarang,3,22,766.6,718.8,12.663,0.3111,Richeese Wafer Keju 50g,Richeese,Wafer,766.6,linear_trend
+S001,Semarang,4,22,779.3,718.8,12.663,0.3111,Richeese Wafer Keju 50g,Richeese,Wafer,779.3,linear_trend
+S001,Surabaya,1,22,2198.1,2079.5,35.711,0.2697,Richeese Wafer Keju 50g,Richeese,Wafer,2079.5,rolling_mean
+S001,Surabaya,2,22,2233.8,2079.5,35.711,0.2697,Richeese Wafer Keju 50g,Richeese,Wafer,2079.5,rolling_mean
+S001,Surabaya,3,22,2269.5,2079.5,35.711,0.2697,Richeese Wafer Keju 50g,Richeese,Wafer,2079.5,rolling_mean
+S001,Surabaya,4,22,2305.2,2079.5,35.711,0.2697,Richeese Wafer Keju 50g,Richeese,Wafer,2079.5,rolling_mean
+S002,Bandung,1,22,518.5,486.0,8.715,0.3097,Richoco Wafer Cokelat 50g,Richoco,Wafer,518.5,linear_trend
+S002,Bandung,2,22,527.2,486.0,8.715,0.3097,Richoco Wafer Cokelat 50g,Richoco,Wafer,527.2,linear_trend
+S002,Bandung,3,22,535.9,486.0,8.715,0.3097,Richoco Wafer Cokelat 50g,Richoco,Wafer,535.9,linear_trend
+S002,Bandung,4,22,544.6,486.0,8.715,0.3097,Richoco Wafer Cokelat 50g,Richoco,Wafer,544.6,linear_trend
+S002,Jakarta,1,22,1557.2,1492.0,25.332,0.2654,Richoco Wafer Cokelat 50g,Richoco,Wafer,1492.0,rolling_mean
+S002,Jakarta,2,22,1582.6,1492.0,25.332,0.2654,Richoco Wafer Cokelat 50g,Richoco,Wafer,1492.0,rolling_mean
+S002,Jakarta,3,22,1607.9,1492.0,25.332,0.2654,Richoco Wafer Cokelat 50g,Richoco,Wafer,1492.0,rolling_mean
+S002,Jakarta,4,22,1633.2,1492.0,25.332,0.2654,Richoco Wafer Cokelat 50g,Richoco,Wafer,1492.0,rolling_mean
+S002,Semarang,1,22,334.3,319.2,4.837,0.1542,Richoco Wafer Cokelat 50g,Richoco,Wafer,319.2,rolling_mean
+S002,Semarang,2,22,339.1,319.2,4.837,0.1542,Richoco Wafer Cokelat 50g,Richoco,Wafer,319.2,rolling_mean
+S002,Semarang,3,22,343.9,319.2,4.837,0.1542,Richoco Wafer Cokelat 50g,Richoco,Wafer,319.2,rolling_mean
+S002,Semarang,4,22,348.8,319.2,4.837,0.1542,Richoco Wafer Cokelat 50g,Richoco,Wafer,319.2,rolling_mean
+S002,Surabaya,1,22,1048.1,947.0,17.534,0.3076,Richoco Wafer Cokelat 50g,Richoco,Wafer,1048.1,linear_trend
+S002,Surabaya,2,22,1065.6,947.0,17.534,0.3076,Richoco Wafer Cokelat 50g,Richoco,Wafer,1065.6,linear_trend
+S002,Surabaya,3,22,1083.1,947.0,17.534,0.3076,Richoco Wafer Cokelat 50g,Richoco,Wafer,1083.1,linear_trend
+S002,Surabaya,4,22,1100.7,947.0,17.534,0.3076,Richoco Wafer Cokelat 50g,Richoco,Wafer,1100.7,linear_trend
+S003,Bandung,1,22,524.5,475.8,9.854,0.3305,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,524.5,linear_trend
+S003,Bandung,2,22,534.4,475.8,9.854,0.3305,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,534.4,linear_trend
+S003,Bandung,3,22,544.2,475.8,9.854,0.3305,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,544.2,linear_trend
+S003,Bandung,4,22,554.1,475.8,9.854,0.3305,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,554.1,linear_trend
+S003,Jakarta,1,22,1535.6,1459.0,23.576,0.2325,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,1459.0,rolling_mean
+S003,Jakarta,2,22,1559.2,1459.0,23.576,0.2325,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,1459.0,rolling_mean
+S003,Jakarta,3,22,1582.8,1459.0,23.576,0.2325,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,1459.0,rolling_mean
+S003,Jakarta,4,22,1606.3,1459.0,23.576,0.2325,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,1459.0,rolling_mean
+S003,Semarang,1,22,342.5,320.8,5.212,0.2087,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,320.8,rolling_mean
+S003,Semarang,2,22,347.8,320.8,5.212,0.2087,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,320.8,rolling_mean
+S003,Semarang,3,22,353.0,320.8,5.212,0.2087,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,320.8,rolling_mean
+S003,Semarang,4,22,358.2,320.8,5.212,0.2087,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,320.8,rolling_mean
+S003,Surabaya,1,22,1040.9,961.0,17.212,0.2608,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,961.0,rolling_mean
+S003,Surabaya,2,22,1058.1,961.0,17.212,0.2608,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,961.0,rolling_mean
+S003,Surabaya,3,22,1075.3,961.0,17.212,0.2608,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,961.0,rolling_mean
+S003,Surabaya,4,22,1092.5,961.0,17.212,0.2608,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,961.0,rolling_mean
+S004,Bandung,1,22,529.5,478.5,8.305,0.2288,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,478.5,rolling_mean
+S004,Bandung,2,22,537.8,478.5,8.305,0.2288,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,478.5,rolling_mean
+S004,Bandung,3,22,546.1,478.5,8.305,0.2288,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,478.5,rolling_mean
+S004,Bandung,4,22,554.4,478.5,8.305,0.2288,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,478.5,rolling_mean
+S004,Jakarta,1,22,1574.0,1476.5,26.893,0.2824,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,1476.5,rolling_mean
+S004,Jakarta,2,22,1600.9,1476.5,26.893,0.2824,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,1476.5,rolling_mean
+S004,Jakarta,3,22,1627.8,1476.5,26.893,0.2824,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,1476.5,rolling_mean
+S004,Jakarta,4,22,1654.7,1476.5,26.893,0.2824,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,1476.5,rolling_mean
+S004,Semarang,1,22,346.4,329.0,5.215,0.1931,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,329.0,rolling_mean
+S004,Semarang,2,22,351.6,329.0,5.215,0.1931,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,329.0,rolling_mean
+S004,Semarang,3,22,356.8,329.0,5.215,0.1931,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,329.0,rolling_mean
+S004,Semarang,4,22,362.0,329.0,5.215,0.1931,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,329.0,rolling_mean
+S004,Surabaya,1,22,1033.5,983.0,17.017,0.2765,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,983.0,rolling_mean
+S004,Surabaya,2,22,1050.6,983.0,17.017,0.2765,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,983.0,rolling_mean
+S004,Surabaya,3,22,1067.6,983.0,17.017,0.2765,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,983.0,rolling_mean
+S004,Surabaya,4,22,1084.6,983.0,17.017,0.2765,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,983.0,rolling_mean
+S005,Bandung,1,22,550.7,538.5,10.375,0.2778,Nextar Brownies Pie 40g,Nextar,Kue/Pie,538.5,rolling_mean
+S005,Bandung,2,22,561.1,538.5,10.375,0.2778,Nextar Brownies Pie 40g,Nextar,Kue/Pie,538.5,rolling_mean
+S005,Bandung,3,22,571.4,538.5,10.375,0.2778,Nextar Brownies Pie 40g,Nextar,Kue/Pie,538.5,rolling_mean
+S005,Bandung,4,22,581.8,538.5,10.375,0.2778,Nextar Brownies Pie 40g,Nextar,Kue/Pie,538.5,rolling_mean
+S005,Jakarta,1,22,1559.1,1442.5,24.625,0.2568,Nextar Brownies Pie 40g,Nextar,Kue/Pie,1442.5,rolling_mean
+S005,Jakarta,2,22,1583.7,1442.5,24.625,0.2568,Nextar Brownies Pie 40g,Nextar,Kue/Pie,1442.5,rolling_mean
+S005,Jakarta,3,22,1608.3,1442.5,24.625,0.2568,Nextar Brownies Pie 40g,Nextar,Kue/Pie,1442.5,rolling_mean
+S005,Jakarta,4,22,1632.9,1442.5,24.625,0.2568,Nextar Brownies Pie 40g,Nextar,Kue/Pie,1442.5,rolling_mean
+S005,Semarang,1,22,362.0,354.0,7.216,0.3032,Nextar Brownies Pie 40g,Nextar,Kue/Pie,362.0,linear_trend
+S005,Semarang,2,22,369.2,354.0,7.216,0.3032,Nextar Brownies Pie 40g,Nextar,Kue/Pie,369.2,linear_trend
+S005,Semarang,3,22,376.4,354.0,7.216,0.3032,Nextar Brownies Pie 40g,Nextar,Kue/Pie,376.4,linear_trend
+S005,Semarang,4,22,383.6,354.0,7.216,0.3032,Nextar Brownies Pie 40g,Nextar,Kue/Pie,383.6,linear_trend
+S005,Surabaya,1,22,1039.5,943.8,17.857,0.2706,Nextar Brownies Pie 40g,Nextar,Kue/Pie,943.8,rolling_mean
+S005,Surabaya,2,22,1057.4,943.8,17.857,0.2706,Nextar Brownies Pie 40g,Nextar,Kue/Pie,943.8,rolling_mean
+S005,Surabaya,3,22,1075.3,943.8,17.857,0.2706,Nextar Brownies Pie 40g,Nextar,Kue/Pie,943.8,rolling_mean
+S005,Surabaya,4,22,1093.1,943.8,17.857,0.2706,Nextar Brownies Pie 40g,Nextar,Kue/Pie,943.8,rolling_mean
+S006,Bandung,1,22,518.1,479.5,8.877,0.2814,Nextar Nastar Pie 30g,Nextar,Kue/Pie,479.5,rolling_mean
+S006,Bandung,2,22,526.9,479.5,8.877,0.2814,Nextar Nastar Pie 30g,Nextar,Kue/Pie,479.5,rolling_mean
+S006,Bandung,3,22,535.8,479.5,8.877,0.2814,Nextar Nastar Pie 30g,Nextar,Kue/Pie,479.5,rolling_mean
+S006,Bandung,4,22,544.7,479.5,8.877,0.2814,Nextar Nastar Pie 30g,Nextar,Kue/Pie,479.5,rolling_mean
+S006,Jakarta,1,22,1567.2,1414.2,26.38,0.2778,Nextar Nastar Pie 30g,Nextar,Kue/Pie,1414.2,rolling_mean
+S006,Jakarta,2,22,1593.6,1414.2,26.38,0.2778,Nextar Nastar Pie 30g,Nextar,Kue/Pie,1414.2,rolling_mean
+S006,Jakarta,3,22,1619.9,1414.2,26.38,0.2778,Nextar Nastar Pie 30g,Nextar,Kue/Pie,1414.2,rolling_mean
+S006,Jakarta,4,22,1646.3,1414.2,26.38,0.2778,Nextar Nastar Pie 30g,Nextar,Kue/Pie,1414.2,rolling_mean
+S006,Semarang,1,22,336.1,308.8,5.699,0.2483,Nextar Nastar Pie 30g,Nextar,Kue/Pie,308.8,rolling_mean
+S006,Semarang,2,22,341.8,308.8,5.699,0.2483,Nextar Nastar Pie 30g,Nextar,Kue/Pie,308.8,rolling_mean
+S006,Semarang,3,22,347.5,308.8,5.699,0.2483,Nextar Nastar Pie 30g,Nextar,Kue/Pie,308.8,rolling_mean
+S006,Semarang,4,22,353.2,308.8,5.699,0.2483,Nextar Nastar Pie 30g,Nextar,Kue/Pie,308.8,rolling_mean
+S006,Surabaya,1,22,1001.5,932.5,14.321,0.2033,Nextar Nastar Pie 30g,Nextar,Kue/Pie,932.5,rolling_mean
+S006,Surabaya,2,22,1015.8,932.5,14.321,0.2033,Nextar Nastar Pie 30g,Nextar,Kue/Pie,932.5,rolling_mean
+S006,Surabaya,3,22,1030.1,932.5,14.321,0.2033,Nextar Nastar Pie 30g,Nextar,Kue/Pie,932.5,rolling_mean
+S006,Surabaya,4,22,1044.4,932.5,14.321,0.2033,Nextar Nastar Pie 30g,Nextar,Kue/Pie,932.5,rolling_mean
+S007,Bandung,1,22,520.8,503.2,9.002,0.2574,Richeese Siip Keju 20g,Richeese,Extruded Snack,503.2,rolling_mean
+S007,Bandung,2,22,529.8,503.2,9.002,0.2574,Richeese Siip Keju 20g,Richeese,Extruded Snack,503.2,rolling_mean
+S007,Bandung,3,22,538.8,503.2,9.002,0.2574,Richeese Siip Keju 20g,Richeese,Extruded Snack,503.2,rolling_mean
+S007,Bandung,4,22,547.8,503.2,9.002,0.2574,Richeese Siip Keju 20g,Richeese,Extruded Snack,503.2,rolling_mean
+S007,Jakarta,1,22,1595.6,1486.0,26.577,0.2788,Richeese Siip Keju 20g,Richeese,Extruded Snack,1486.0,rolling_mean
+S007,Jakarta,2,22,1622.2,1486.0,26.577,0.2788,Richeese Siip Keju 20g,Richeese,Extruded Snack,1486.0,rolling_mean
+S007,Jakarta,3,22,1648.8,1486.0,26.577,0.2788,Richeese Siip Keju 20g,Richeese,Extruded Snack,1486.0,rolling_mean
+S007,Jakarta,4,22,1675.4,1486.0,26.577,0.2788,Richeese Siip Keju 20g,Richeese,Extruded Snack,1486.0,rolling_mean
+S007,Semarang,1,22,345.7,322.8,5.315,0.2347,Richeese Siip Keju 20g,Richeese,Extruded Snack,322.8,rolling_mean
+S007,Semarang,2,22,351.1,322.8,5.315,0.2347,Richeese Siip Keju 20g,Richeese,Extruded Snack,322.8,rolling_mean
+S007,Semarang,3,22,356.4,322.8,5.315,0.2347,Richeese Siip Keju 20g,Richeese,Extruded Snack,322.8,rolling_mean
+S007,Semarang,4,22,361.7,322.8,5.315,0.2347,Richeese Siip Keju 20g,Richeese,Extruded Snack,322.8,rolling_mean
+S007,Surabaya,1,22,1050.8,1003.2,17.767,0.3106,Richeese Siip Keju 20g,Richeese,Extruded Snack,1050.8,linear_trend
+S007,Surabaya,2,22,1068.6,1003.2,17.767,0.3106,Richeese Siip Keju 20g,Richeese,Extruded Snack,1068.6,linear_trend
+S007,Surabaya,3,22,1086.3,1003.2,17.767,0.3106,Richeese Siip Keju 20g,Richeese,Extruded Snack,1086.3,linear_trend
+S007,Surabaya,4,22,1104.1,1003.2,17.767,0.3106,Richeese Siip Keju 20g,Richeese,Extruded Snack,1104.1,linear_trend
+S008,Bandung,1,22,527.3,479.2,8.567,0.2312,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,479.2,rolling_mean
+S008,Bandung,2,22,535.9,479.2,8.567,0.2312,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,479.2,rolling_mean
+S008,Bandung,3,22,544.5,479.2,8.567,0.2312,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,479.2,rolling_mean
+S008,Bandung,4,22,553.0,479.2,8.567,0.2312,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,479.2,rolling_mean
+S008,Jakarta,1,22,1555.4,1412.0,27.943,0.2898,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,1412.0,rolling_mean
+S008,Jakarta,2,22,1583.4,1412.0,27.943,0.2898,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,1412.0,rolling_mean
+S008,Jakarta,3,22,1611.3,1412.0,27.943,0.2898,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,1412.0,rolling_mean
+S008,Jakarta,4,22,1639.3,1412.0,27.943,0.2898,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,1412.0,rolling_mean
+S008,Semarang,1,22,346.7,325.8,6.079,0.2666,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,325.8,rolling_mean
+S008,Semarang,2,22,352.8,325.8,6.079,0.2666,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,325.8,rolling_mean
+S008,Semarang,3,22,358.8,325.8,6.079,0.2666,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,325.8,rolling_mean
+S008,Semarang,4,22,364.9,325.8,6.079,0.2666,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,325.8,rolling_mean
+S008,Surabaya,1,22,1019.7,936.2,15.286,0.2333,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,936.2,rolling_mean
+S008,Surabaya,2,22,1035.0,936.2,15.286,0.2333,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,936.2,rolling_mean
+S008,Surabaya,3,22,1050.3,936.2,15.286,0.2333,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,936.2,rolling_mean
+S008,Surabaya,4,22,1065.5,936.2,15.286,0.2333,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,936.2,rolling_mean
+S009,Bandung,1,22,528.8,507.0,9.225,0.2495,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,507.0,rolling_mean
+S009,Bandung,2,22,538.0,507.0,9.225,0.2495,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,507.0,rolling_mean
+S009,Bandung,3,22,547.2,507.0,9.225,0.2495,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,507.0,rolling_mean
+S009,Bandung,4,22,556.5,507.0,9.225,0.2495,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,507.0,rolling_mean
+S009,Jakarta,1,22,1568.1,1456.5,26.204,0.2866,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,1456.5,rolling_mean
+S009,Jakarta,2,22,1594.3,1456.5,26.204,0.2866,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,1456.5,rolling_mean
+S009,Jakarta,3,22,1620.5,1456.5,26.204,0.2866,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,1456.5,rolling_mean
+S009,Jakarta,4,22,1646.7,1456.5,26.204,0.2866,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,1456.5,rolling_mean
+S009,Semarang,1,22,343.4,322.5,6.014,0.3188,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,343.4,linear_trend
+S009,Semarang,2,22,349.4,322.5,6.014,0.3188,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,349.4,linear_trend
+S009,Semarang,3,22,355.5,322.5,6.014,0.3188,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,355.5,linear_trend
+S009,Semarang,4,22,361.5,322.5,6.014,0.3188,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,361.5,linear_trend
+S009,Surabaya,1,22,1037.3,942.0,18.232,0.2694,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,942.0,rolling_mean
+S009,Surabaya,2,22,1055.5,942.0,18.232,0.2694,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,942.0,rolling_mean
+S009,Surabaya,3,22,1073.7,942.0,18.232,0.2694,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,942.0,rolling_mean
+S009,Surabaya,4,22,1092.0,942.0,18.232,0.2694,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,942.0,rolling_mean
+S010,Bandung,1,22,510.9,474.2,8.358,0.2625,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,474.2,rolling_mean
+S010,Bandung,2,22,519.2,474.2,8.358,0.2625,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,474.2,rolling_mean
+S010,Bandung,3,22,527.6,474.2,8.358,0.2625,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,474.2,rolling_mean
+S010,Bandung,4,22,535.9,474.2,8.358,0.2625,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,474.2,rolling_mean
+S010,Jakarta,1,22,1572.5,1479.5,27.458,0.3065,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,1572.5,linear_trend
+S010,Jakarta,2,22,1599.9,1479.5,27.458,0.3065,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,1599.9,linear_trend
+S010,Jakarta,3,22,1627.4,1479.5,27.458,0.3065,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,1627.4,linear_trend
+S010,Jakarta,4,22,1654.9,1479.5,27.458,0.3065,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,1654.9,linear_trend
+S010,Semarang,1,22,372.8,352.5,6.938,0.3101,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,372.8,linear_trend
+S010,Semarang,2,22,379.8,352.5,6.938,0.3101,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,379.8,linear_trend
+S010,Semarang,3,22,386.7,352.5,6.938,0.3101,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,386.7,linear_trend
+S010,Semarang,4,22,393.6,352.5,6.938,0.3101,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,393.6,linear_trend
+S010,Surabaya,1,22,1007.9,934.0,15.273,0.2473,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,934.0,rolling_mean
+S010,Surabaya,2,22,1023.2,934.0,15.273,0.2473,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,934.0,rolling_mean
+S010,Surabaya,3,22,1038.5,934.0,15.273,0.2473,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,934.0,rolling_mean
+S010,Surabaya,4,22,1053.7,934.0,15.273,0.2473,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,934.0,rolling_mean
+S011,Bandung,1,22,521.5,465.0,9.074,0.2835,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,465.0,rolling_mean
+S011,Bandung,2,22,530.6,465.0,9.074,0.2835,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,465.0,rolling_mean
+S011,Bandung,3,22,539.7,465.0,9.074,0.2835,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,465.0,rolling_mean
+S011,Bandung,4,22,548.8,465.0,9.074,0.2835,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,465.0,rolling_mean
+S011,Jakarta,1,22,1584.1,1493.0,28.001,0.3242,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1584.1,linear_trend
+S011,Jakarta,2,22,1612.1,1493.0,28.001,0.3242,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1612.1,linear_trend
+S011,Jakarta,3,22,1640.1,1493.0,28.001,0.3242,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1640.1,linear_trend
+S011,Jakarta,4,22,1668.1,1493.0,28.001,0.3242,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1668.1,linear_trend
+S011,Semarang,1,22,370.7,340.0,7.781,0.3861,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,370.7,linear_trend
+S011,Semarang,2,22,378.5,340.0,7.781,0.3861,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,378.5,linear_trend
+S011,Semarang,3,22,386.3,340.0,7.781,0.3861,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,386.3,linear_trend
+S011,Semarang,4,22,394.1,340.0,7.781,0.3861,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,394.1,linear_trend
+S011,Surabaya,1,22,1058.5,998.5,19.221,0.3078,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1058.5,linear_trend
+S011,Surabaya,2,22,1077.7,998.5,19.221,0.3078,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1077.7,linear_trend
+S011,Surabaya,3,22,1097.0,998.5,19.221,0.3078,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1097.0,linear_trend
+S011,Surabaya,4,22,1116.2,998.5,19.221,0.3078,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,1116.2,linear_trend
+S012,Bandung,1,22,533.7,489.8,10.103,0.303,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,533.7,linear_trend
+S012,Bandung,2,22,543.8,489.8,10.103,0.303,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,543.8,linear_trend
+S012,Bandung,3,22,553.9,489.8,10.103,0.303,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,553.9,linear_trend
+S012,Bandung,4,22,564.0,489.8,10.103,0.303,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,564.0,linear_trend
+S012,Jakarta,1,22,1502.5,1397.2,22.955,0.2309,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,1397.2,rolling_mean
+S012,Jakarta,2,22,1525.4,1397.2,22.955,0.2309,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,1397.2,rolling_mean
+S012,Jakarta,3,22,1548.4,1397.2,22.955,0.2309,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,1397.2,rolling_mean
+S012,Jakarta,4,22,1571.3,1397.2,22.955,0.2309,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,1397.2,rolling_mean
+S012,Semarang,1,22,346.2,317.5,5.558,0.2073,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,317.5,rolling_mean
+S012,Semarang,2,22,351.7,317.5,5.558,0.2073,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,317.5,rolling_mean
+S012,Semarang,3,22,357.3,317.5,5.558,0.2073,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,317.5,rolling_mean
+S012,Semarang,4,22,362.9,317.5,5.558,0.2073,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,317.5,rolling_mean
+S012,Surabaya,1,22,1002.6,947.0,15.125,0.2169,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,947.0,rolling_mean
+S012,Surabaya,2,22,1017.8,947.0,15.125,0.2169,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,947.0,rolling_mean
+S012,Surabaya,3,22,1032.9,947.0,15.125,0.2169,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,947.0,rolling_mean
+S012,Surabaya,4,22,1048.0,947.0,15.125,0.2169,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,947.0,rolling_mean
+S013,Bandung,1,22,1092.2,1016.0,15.912,0.2112,Nabati Drinko Richeese 150ml,Richeese,Minuman,1016.0,rolling_mean
+S013,Bandung,2,22,1108.1,1016.0,15.912,0.2112,Nabati Drinko Richeese 150ml,Richeese,Minuman,1016.0,rolling_mean
+S013,Bandung,3,22,1124.0,1016.0,15.912,0.2112,Nabati Drinko Richeese 150ml,Richeese,Minuman,1016.0,rolling_mean
+S013,Bandung,4,22,1139.9,1016.0,15.912,0.2112,Nabati Drinko Richeese 150ml,Richeese,Minuman,1016.0,rolling_mean
+S013,Jakarta,1,22,3299.1,3095.2,52.856,0.2704,Nabati Drinko Richeese 150ml,Richeese,Minuman,3095.2,rolling_mean
+S013,Jakarta,2,22,3352.0,3095.2,52.856,0.2704,Nabati Drinko Richeese 150ml,Richeese,Minuman,3095.2,rolling_mean
+S013,Jakarta,3,22,3404.8,3095.2,52.856,0.2704,Nabati Drinko Richeese 150ml,Richeese,Minuman,3095.2,rolling_mean
+S013,Jakarta,4,22,3457.7,3095.2,52.856,0.2704,Nabati Drinko Richeese 150ml,Richeese,Minuman,3095.2,rolling_mean
+S013,Semarang,1,22,734.4,686.2,11.47,0.2317,Nabati Drinko Richeese 150ml,Richeese,Minuman,686.2,rolling_mean
+S013,Semarang,2,22,745.9,686.2,11.47,0.2317,Nabati Drinko Richeese 150ml,Richeese,Minuman,686.2,rolling_mean
+S013,Semarang,3,22,757.3,686.2,11.47,0.2317,Nabati Drinko Richeese 150ml,Richeese,Minuman,686.2,rolling_mean
+S013,Semarang,4,22,768.8,686.2,11.47,0.2317,Nabati Drinko Richeese 150ml,Richeese,Minuman,686.2,rolling_mean
+S013,Surabaya,1,22,2253.1,2112.5,38.981,0.3122,Nabati Drinko Richeese 150ml,Richeese,Minuman,2253.1,linear_trend
+S013,Surabaya,2,22,2292.1,2112.5,38.981,0.3122,Nabati Drinko Richeese 150ml,Richeese,Minuman,2292.1,linear_trend
+S013,Surabaya,3,22,2331.1,2112.5,38.981,0.3122,Nabati Drinko Richeese 150ml,Richeese,Minuman,2331.1,linear_trend
+S013,Surabaya,4,22,2370.1,2112.5,38.981,0.3122,Nabati Drinko Richeese 150ml,Richeese,Minuman,2370.1,linear_trend
+S014,Bandung,1,22,526.6,497.2,8.587,0.2483,Nabati Drinko Richoco 150ml,Richoco,Minuman,497.2,rolling_mean
+S014,Bandung,2,22,535.2,497.2,8.587,0.2483,Nabati Drinko Richoco 150ml,Richoco,Minuman,497.2,rolling_mean
+S014,Bandung,3,22,543.7,497.2,8.587,0.2483,Nabati Drinko Richoco 150ml,Richoco,Minuman,497.2,rolling_mean
+S014,Bandung,4,22,552.3,497.2,8.587,0.2483,Nabati Drinko Richoco 150ml,Richoco,Minuman,497.2,rolling_mean
+S014,Jakarta,1,22,1602.0,1480.8,27.237,0.2968,Nabati Drinko Richoco 150ml,Richoco,Minuman,1480.8,rolling_mean
+S014,Jakarta,2,22,1629.2,1480.8,27.237,0.2968,Nabati Drinko Richoco 150ml,Richoco,Minuman,1480.8,rolling_mean
+S014,Jakarta,3,22,1656.5,1480.8,27.237,0.2968,Nabati Drinko Richoco 150ml,Richoco,Minuman,1480.8,rolling_mean
+S014,Jakarta,4,22,1683.7,1480.8,27.237,0.2968,Nabati Drinko Richoco 150ml,Richoco,Minuman,1480.8,rolling_mean
+S014,Semarang,1,22,350.8,318.2,6.19,0.2934,Nabati Drinko Richoco 150ml,Richoco,Minuman,318.2,rolling_mean
+S014,Semarang,2,22,356.9,318.2,6.19,0.2934,Nabati Drinko Richoco 150ml,Richoco,Minuman,318.2,rolling_mean
+S014,Semarang,3,22,363.1,318.2,6.19,0.2934,Nabati Drinko Richoco 150ml,Richoco,Minuman,318.2,rolling_mean
+S014,Semarang,4,22,369.3,318.2,6.19,0.2934,Nabati Drinko Richoco 150ml,Richoco,Minuman,318.2,rolling_mean
+S014,Surabaya,1,22,1064.5,1003.2,18.744,0.2639,Nabati Drinko Richoco 150ml,Richoco,Minuman,1003.2,rolling_mean
+S014,Surabaya,2,22,1083.3,1003.2,18.744,0.2639,Nabati Drinko Richoco 150ml,Richoco,Minuman,1003.2,rolling_mean
+S014,Surabaya,3,22,1102.0,1003.2,18.744,0.2639,Nabati Drinko Richoco 150ml,Richoco,Minuman,1003.2,rolling_mean
+S014,Surabaya,4,22,1120.8,1003.2,18.744,0.2639,Nabati Drinko Richoco 150ml,Richoco,Minuman,1003.2,rolling_mean
+S015,Bandung,1,22,514.1,484.5,7.538,0.1982,Richeese Wafer Pink Lava 50g,Richeese,Wafer,484.5,rolling_mean
+S015,Bandung,2,22,521.7,484.5,7.538,0.1982,Richeese Wafer Pink Lava 50g,Richeese,Wafer,484.5,rolling_mean
+S015,Bandung,3,22,529.2,484.5,7.538,0.1982,Richeese Wafer Pink Lava 50g,Richeese,Wafer,484.5,rolling_mean
+S015,Bandung,4,22,536.8,484.5,7.538,0.1982,Richeese Wafer Pink Lava 50g,Richeese,Wafer,484.5,rolling_mean
+S015,Jakarta,1,22,1589.7,1476.8,28.913,0.3177,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1589.7,linear_trend
+S015,Jakarta,2,22,1618.6,1476.8,28.913,0.3177,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1618.6,linear_trend
+S015,Jakarta,3,22,1647.5,1476.8,28.913,0.3177,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1647.5,linear_trend
+S015,Jakarta,4,22,1676.4,1476.8,28.913,0.3177,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1676.4,linear_trend
+S015,Semarang,1,22,339.5,323.0,4.912,0.2279,Richeese Wafer Pink Lava 50g,Richeese,Wafer,323.0,rolling_mean
+S015,Semarang,2,22,344.4,323.0,4.912,0.2279,Richeese Wafer Pink Lava 50g,Richeese,Wafer,323.0,rolling_mean
+S015,Semarang,3,22,349.3,323.0,4.912,0.2279,Richeese Wafer Pink Lava 50g,Richeese,Wafer,323.0,rolling_mean
+S015,Semarang,4,22,354.2,323.0,4.912,0.2279,Richeese Wafer Pink Lava 50g,Richeese,Wafer,323.0,rolling_mean
+S015,Surabaya,1,22,1087.7,978.5,20.554,0.3526,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1087.7,linear_trend
+S015,Surabaya,2,22,1108.2,978.5,20.554,0.3526,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1108.2,linear_trend
+S015,Surabaya,3,22,1128.8,978.5,20.554,0.3526,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1128.8,linear_trend
+S015,Surabaya,4,22,1149.3,978.5,20.554,0.3526,Richeese Wafer Pink Lava 50g,Richeese,Wafer,1149.3,linear_trend
+S016,Bandung,1,22,560.9,524.5,10.539,0.3332,Richoco Wafer Hazelnut 50g,Richoco,Wafer,560.9,linear_trend
+S016,Bandung,2,22,571.5,524.5,10.539,0.3332,Richoco Wafer Hazelnut 50g,Richoco,Wafer,571.5,linear_trend
+S016,Bandung,3,22,582.0,524.5,10.539,0.3332,Richoco Wafer Hazelnut 50g,Richoco,Wafer,582.0,linear_trend
+S016,Bandung,4,22,592.6,524.5,10.539,0.3332,Richoco Wafer Hazelnut 50g,Richoco,Wafer,592.6,linear_trend
+S016,Jakarta,1,22,1582.3,1463.5,25.51,0.2818,Richoco Wafer Hazelnut 50g,Richoco,Wafer,1463.5,rolling_mean
+S016,Jakarta,2,22,1607.8,1463.5,25.51,0.2818,Richoco Wafer Hazelnut 50g,Richoco,Wafer,1463.5,rolling_mean
+S016,Jakarta,3,22,1633.4,1463.5,25.51,0.2818,Richoco Wafer Hazelnut 50g,Richoco,Wafer,1463.5,rolling_mean
+S016,Jakarta,4,22,1658.9,1463.5,25.51,0.2818,Richoco Wafer Hazelnut 50g,Richoco,Wafer,1463.5,rolling_mean
+S016,Semarang,1,22,347.2,334.2,6.455,0.3348,Richoco Wafer Hazelnut 50g,Richoco,Wafer,347.2,linear_trend
+S016,Semarang,2,22,353.6,334.2,6.455,0.3348,Richoco Wafer Hazelnut 50g,Richoco,Wafer,353.6,linear_trend
+S016,Semarang,3,22,360.1,334.2,6.455,0.3348,Richoco Wafer Hazelnut 50g,Richoco,Wafer,360.1,linear_trend
+S016,Semarang,4,22,366.5,334.2,6.455,0.3348,Richoco Wafer Hazelnut 50g,Richoco,Wafer,366.5,linear_trend
+S016,Surabaya,1,22,1031.8,959.5,17.331,0.2844,Richoco Wafer Hazelnut 50g,Richoco,Wafer,959.5,rolling_mean
+S016,Surabaya,2,22,1049.1,959.5,17.331,0.2844,Richoco Wafer Hazelnut 50g,Richoco,Wafer,959.5,rolling_mean
+S016,Surabaya,3,22,1066.5,959.5,17.331,0.2844,Richoco Wafer Hazelnut 50g,Richoco,Wafer,959.5,rolling_mean
+S016,Surabaya,4,22,1083.8,959.5,17.331,0.2844,Richoco Wafer Hazelnut 50g,Richoco,Wafer,959.5,rolling_mean
+S017,Bandung,1,22,526.3,493.0,9.05,0.3235,Nextar Choco Delight 40g,Nextar,Kue/Pie,526.3,linear_trend
+S017,Bandung,2,22,535.4,493.0,9.05,0.3235,Nextar Choco Delight 40g,Nextar,Kue/Pie,535.4,linear_trend
+S017,Bandung,3,22,544.4,493.0,9.05,0.3235,Nextar Choco Delight 40g,Nextar,Kue/Pie,544.4,linear_trend
+S017,Bandung,4,22,553.5,493.0,9.05,0.3235,Nextar Choco Delight 40g,Nextar,Kue/Pie,553.5,linear_trend
+S017,Jakarta,1,22,1515.0,1447.0,23.076,0.24,Nextar Choco Delight 40g,Nextar,Kue/Pie,1447.0,rolling_mean
+S017,Jakarta,2,22,1538.1,1447.0,23.076,0.24,Nextar Choco Delight 40g,Nextar,Kue/Pie,1447.0,rolling_mean
+S017,Jakarta,3,22,1561.2,1447.0,23.076,0.24,Nextar Choco Delight 40g,Nextar,Kue/Pie,1447.0,rolling_mean
+S017,Jakarta,4,22,1584.2,1447.0,23.076,0.24,Nextar Choco Delight 40g,Nextar,Kue/Pie,1447.0,rolling_mean
+S017,Semarang,1,22,349.9,319.5,6.292,0.2919,Nextar Choco Delight 40g,Nextar,Kue/Pie,319.5,rolling_mean
+S017,Semarang,2,22,356.2,319.5,6.292,0.2919,Nextar Choco Delight 40g,Nextar,Kue/Pie,319.5,rolling_mean
+S017,Semarang,3,22,362.5,319.5,6.292,0.2919,Nextar Choco Delight 40g,Nextar,Kue/Pie,319.5,rolling_mean
+S017,Semarang,4,22,368.8,319.5,6.292,0.2919,Nextar Choco Delight 40g,Nextar,Kue/Pie,319.5,rolling_mean
+S017,Surabaya,1,22,1045.1,967.0,18.892,0.3227,Nextar Choco Delight 40g,Nextar,Kue/Pie,1045.1,linear_trend
+S017,Surabaya,2,22,1064.0,967.0,18.892,0.3227,Nextar Choco Delight 40g,Nextar,Kue/Pie,1064.0,linear_trend
+S017,Surabaya,3,22,1082.9,967.0,18.892,0.3227,Nextar Choco Delight 40g,Nextar,Kue/Pie,1082.9,linear_trend
+S017,Surabaya,4,22,1101.8,967.0,18.892,0.3227,Nextar Choco Delight 40g,Nextar,Kue/Pie,1101.8,linear_trend
+S018,Bandung,1,22,520.8,481.8,8.616,0.2245,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,481.8,rolling_mean
+S018,Bandung,2,22,529.4,481.8,8.616,0.2245,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,481.8,rolling_mean
+S018,Bandung,3,22,538.1,481.8,8.616,0.2245,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,481.8,rolling_mean
+S018,Bandung,4,22,546.7,481.8,8.616,0.2245,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,481.8,rolling_mean
+S018,Jakarta,1,22,1597.1,1499.8,27.856,0.2927,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,1499.8,rolling_mean
+S018,Jakarta,2,22,1625.0,1499.8,27.856,0.2927,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,1499.8,rolling_mean
+S018,Jakarta,3,22,1652.8,1499.8,27.856,0.2927,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,1499.8,rolling_mean
+S018,Jakarta,4,22,1680.7,1499.8,27.856,0.2927,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,1499.8,rolling_mean
+S018,Semarang,1,22,355.6,349.0,6.883,0.2997,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,349.0,rolling_mean
+S018,Semarang,2,22,362.5,349.0,6.883,0.2997,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,349.0,rolling_mean
+S018,Semarang,3,22,369.4,349.0,6.883,0.2997,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,349.0,rolling_mean
+S018,Semarang,4,22,376.3,349.0,6.883,0.2997,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,349.0,rolling_mean
+S018,Surabaya,1,22,1035.1,974.5,16.991,0.2767,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,974.5,rolling_mean
+S018,Surabaya,2,22,1052.1,974.5,16.991,0.2767,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,974.5,rolling_mean
+S018,Surabaya,3,22,1069.0,974.5,16.991,0.2767,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,974.5,rolling_mean
+S018,Surabaya,4,22,1086.0,974.5,16.991,0.2767,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,974.5,rolling_mean
+S019,Bandung,1,22,508.2,481.2,8.559,0.2915,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,481.2,rolling_mean
+S019,Bandung,2,22,516.7,481.2,8.559,0.2915,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,481.2,rolling_mean
+S019,Bandung,3,22,525.3,481.2,8.559,0.2915,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,481.2,rolling_mean
+S019,Bandung,4,22,533.9,481.2,8.559,0.2915,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,481.2,rolling_mean
+S019,Jakarta,1,22,1613.6,1514.8,30.327,0.3796,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1613.6,linear_trend
+S019,Jakarta,2,22,1643.9,1514.8,30.327,0.3796,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1643.9,linear_trend
+S019,Jakarta,3,22,1674.2,1514.8,30.327,0.3796,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1674.2,linear_trend
+S019,Jakarta,4,22,1704.6,1514.8,30.327,0.3796,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1704.6,linear_trend
+S019,Semarang,1,22,342.2,310.2,6.567,0.3259,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,342.2,linear_trend
+S019,Semarang,2,22,348.8,310.2,6.567,0.3259,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,348.8,linear_trend
+S019,Semarang,3,22,355.3,310.2,6.567,0.3259,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,355.3,linear_trend
+S019,Semarang,4,22,361.9,310.2,6.567,0.3259,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,361.9,linear_trend
+S019,Surabaya,1,22,1064.5,1016.8,19.486,0.2988,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1016.8,rolling_mean
+S019,Surabaya,2,22,1084.0,1016.8,19.486,0.2988,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1016.8,rolling_mean
+S019,Surabaya,3,22,1103.5,1016.8,19.486,0.2988,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1016.8,rolling_mean
+S019,Surabaya,4,22,1123.0,1016.8,19.486,0.2988,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,1016.8,rolling_mean
+S020,Bandung,1,22,553.1,503.2,9.91,0.3067,Richeese Mi Instan Goreng,Richeese,Mi Instan,553.1,linear_trend
+S020,Bandung,2,22,563.0,503.2,9.91,0.3067,Richeese Mi Instan Goreng,Richeese,Mi Instan,563.0,linear_trend
+S020,Bandung,3,22,572.9,503.2,9.91,0.3067,Richeese Mi Instan Goreng,Richeese,Mi Instan,572.9,linear_trend
+S020,Bandung,4,22,582.8,503.2,9.91,0.3067,Richeese Mi Instan Goreng,Richeese,Mi Instan,582.8,linear_trend
+S020,Jakarta,1,22,1566.2,1499.8,25.087,0.2696,Richeese Mi Instan Goreng,Richeese,Mi Instan,1499.8,rolling_mean
+S020,Jakarta,2,22,1591.3,1499.8,25.087,0.2696,Richeese Mi Instan Goreng,Richeese,Mi Instan,1499.8,rolling_mean
+S020,Jakarta,3,22,1616.3,1499.8,25.087,0.2696,Richeese Mi Instan Goreng,Richeese,Mi Instan,1499.8,rolling_mean
+S020,Jakarta,4,22,1641.4,1499.8,25.087,0.2696,Richeese Mi Instan Goreng,Richeese,Mi Instan,1499.8,rolling_mean
+S020,Semarang,1,22,354.1,341.0,5.842,0.271,Richeese Mi Instan Goreng,Richeese,Mi Instan,341.0,rolling_mean
+S020,Semarang,2,22,359.9,341.0,5.842,0.271,Richeese Mi Instan Goreng,Richeese,Mi Instan,341.0,rolling_mean
+S020,Semarang,3,22,365.7,341.0,5.842,0.271,Richeese Mi Instan Goreng,Richeese,Mi Instan,341.0,rolling_mean
+S020,Semarang,4,22,371.6,341.0,5.842,0.271,Richeese Mi Instan Goreng,Richeese,Mi Instan,341.0,rolling_mean
+S020,Surabaya,1,22,1088.0,974.2,19.47,0.3127,Richeese Mi Instan Goreng,Richeese,Mi Instan,1088.0,linear_trend
+S020,Surabaya,2,22,1107.5,974.2,19.47,0.3127,Richeese Mi Instan Goreng,Richeese,Mi Instan,1107.5,linear_trend
+S020,Surabaya,3,22,1126.9,974.2,19.47,0.3127,Richeese Mi Instan Goreng,Richeese,Mi Instan,1126.9,linear_trend
+S020,Surabaya,4,22,1146.4,974.2,19.47,0.3127,Richeese Mi Instan Goreng,Richeese,Mi Instan,1146.4,linear_trend

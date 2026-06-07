@@ -1,0 +1,21 @@
+SKU_ID,Method,Elasticity,R2,P_Value,N,SKU,Brand,SKU_Category,FinalElasticity,ElasticitySource
+S001,log_log,2.634,0.0471,0.0,600,Richeese Wafer Keju 50g,Richeese,Wafer,-1.2,fallback
+S002,log_log,2.5262,0.0442,0.0,600,Richoco Wafer Cokelat 50g,Richoco,Wafer,-1.2,fallback
+S003,log_log,0.0923,0.0,0.9465,600,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,-1.2,fallback
+S004,log_log,1.5937,0.0023,0.2445,600,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,-1.2,fallback
+S005,log_log,1.833,0.0358,0.0,600,Nextar Brownies Pie 40g,Nextar,Kue/Pie,-1.3,fallback
+S006,log_log,1.8712,0.0368,0.0,600,Nextar Nastar Pie 30g,Nextar,Kue/Pie,-1.3,fallback
+S007,log_log,-1.2487,0.0013,0.3829,600,Richeese Siip Keju 20g,Richeese,Extruded Snack,-1.0,fallback
+S008,log_log,-0.3999,0.0001,0.7742,600,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,-1.0,fallback
+S009,log_log,0.8143,0.0006,0.5555,600,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,-0.8,fallback
+S010,log_log,1.6823,0.0025,0.2225,600,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,-0.8,fallback
+S011,log_log,0.4657,0.0002,0.738,600,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,-1.1,fallback
+S012,log_log,0.642,0.0003,0.6482,600,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,-1.1,fallback
+S013,log_log,0.5199,0.0018,0.306,600,Nabati Drinko Richeese 150ml,Richeese,Minuman,-0.9,fallback
+S014,log_log,-1.2518,0.0014,0.361,600,Nabati Drinko Richoco 150ml,Richoco,Minuman,-0.9,fallback
+S015,log_log,2.3481,0.0049,0.0867,600,Richeese Wafer Pink Lava 50g,Richeese,Wafer,-1.2,fallback
+S016,log_log,1.1908,0.0012,0.3962,600,Richoco Wafer Hazelnut 50g,Richoco,Wafer,-1.2,fallback
+S017,log_log,1.9762,0.0036,0.1446,600,Nextar Choco Delight 40g,Nextar,Kue/Pie,-1.3,fallback
+S018,log_log,-0.0545,0.0,0.9698,600,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,-1.3,fallback
+S019,log_log,-1.2671,0.0013,0.387,600,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,-1.0,fallback
+S020,log_log,1.832,0.0031,0.1756,600,Richeese Mi Instan Goreng,Richeese,Mi Instan,-0.8,fallback

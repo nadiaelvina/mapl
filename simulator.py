@@ -26,8 +26,8 @@ def load_data():
     price_lookup = dict(zip(price_lookup_df['SKU_ID'], price_lookup_df['NormalPrice']))
 
     return sku_overview, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df
-
-df, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df = load_data()
+    
+sku_overview, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df = load_data()
 
 # ── Simulator engine ─────────────────────────────────────────────────────────
 def simulate_portfolio_impact(sku_a_id, discount_pct, branch, weeks=4):

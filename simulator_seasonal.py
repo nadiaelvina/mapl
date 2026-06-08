@@ -338,19 +338,28 @@ with tab3:
     st.subheader("SKU Overview")
 
     branch_filter = st.selectbox("Branch", ['All','Jakarta','Surabaya','Bandung','Semarang'])
-    df_view = df if branch_filter == 'All' else df[df['Branch'] == branch_filter]
 
-    sku_summary = (df_view.groupby(['SKU_ID','SKU','Brand','SKU_Category'])
-                          .agg(
-                              TotalQty=('Qty','sum'),
-                              TotalRevenue=('Total_Price','sum'),
-                              TotalTx=('TransactionID','count'),
-                              AvgDiscount=('DiscountPercentage','mean'),
-                          ).reset_index()
-                          .sort_values('TotalRevenue', ascending=False))
+    if branch_filter == 'All':
+        df_view = (sku_overview.groupby(['SKU_ID','SKU','Brand','SKU_Category'])
+                               .agg(
+                                   TotalQty=('TotalQty','sum'),
+                                   TotalRevenue=('TotalRevenue','sum'),
+                                   TotalTx=('TotalTx','sum'),
+                                   AvgDiscount=('AvgDiscount','mean'),
+                               ).reset_index())
+    else:
+        df_view = (sku_overview[sku_overview['Branch']==branch_filter]
+                               .groupby(['SKU_ID','SKU','Brand','SKU_Category'])
+                               .agg(
+                                   TotalQty=('TotalQty','sum'),
+                                   TotalRevenue=('TotalRevenue','sum'),
+                                   TotalTx=('TotalTx','sum'),
+                                   AvgDiscount=('AvgDiscount','mean'),
+                               ).reset_index())
 
+    sku_summary = df_view.sort_values('TotalRevenue', ascending=False)
     sku_summary['AvgDiscount'] = (sku_summary['AvgDiscount'] * 100).round(1)
-
+    
     col_a, col_b = st.columns(2)
     with col_a:
         fig_rev = px.bar(sku_summary, x='TotalRevenue', y='SKU',

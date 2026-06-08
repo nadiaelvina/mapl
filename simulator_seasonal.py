@@ -13,21 +13,21 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    sku_overview = pd.read_csv('sku_overview.csv')
+    sku_overview    = pd.read_csv('sku_overview.csv')
     price_lookup_df = pd.read_csv('price_lookup.csv')
-    matrix_df   = pd.read_csv('cannibalization_matrix.csv', index_col=0)
-    elast_df    = pd.read_csv('elasticity_per_sku.csv')
-    forecast_df = pd.read_csv('base_forecast.csv')
+    matrix_df       = pd.read_csv('cannibalization_matrix.csv', index_col=0)
+    elast_df        = pd.read_csv('elasticity_per_sku.csv')
+    forecast_df     = pd.read_csv('base_forecast.csv')
 
     sku_meta = (sku_overview[['SKU_ID','SKU','Brand','SKU_Category']]
                 .drop_duplicates().reset_index(drop=True))
-    
+
     elast_lookup = dict(zip(elast_df['SKU_ID'], elast_df['FinalElasticity']))
     price_lookup = dict(zip(price_lookup_df['SKU_ID'], price_lookup_df['NormalPrice']))
 
     return sku_overview, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df
 
-df, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df = load_data()
+sku_overview, sku_meta, matrix_df, elast_lookup, price_lookup, forecast_df = load_data()
 
 # ── Simulator engine ─────────────────────────────────────────────────────────
 def simulate_portfolio_impact(sku_a_id, discount_pct, branch, weeks=4):
